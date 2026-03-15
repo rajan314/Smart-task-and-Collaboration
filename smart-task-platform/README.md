@@ -180,4 +180,4 @@ MIT License — feel free to use, modify, and distribute.
 
 ## 🙋‍♂️ Author
 
-Built with ❤️ — add your name here!
+Built with ❤️ — Rajan Singh
